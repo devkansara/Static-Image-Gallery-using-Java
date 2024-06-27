@@ -1,4 +1,7 @@
 # Static-Image-Gallery-using-Python
+This application is a simple, Java-based solution designed to display a variety of categorized images from a database. It allows users to freely access and utilize these images to enhance their projects. The concept of this project is inspired by platforms like Getty Images and Pinterest.
+
+Our image gallery offers a diverse range of images across various categories, including sports, entertainment, landscapes, and more. We aim to provide high-quality stock images and editorial photos for both consumers and business professionals. Users can leverage our creative images for their projects, websites, and other applications.
 ## To run this Image Gallery
 -> Run main.java and then click on Login or register.
 
